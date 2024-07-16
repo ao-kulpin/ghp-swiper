@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.b6bc699d.css",
-    "main.js": "/static/js/main.1b57ce49.js",
-    "index.html": "/index.html",
-    "main.b6bc699d.css.map": "/static/css/main.b6bc699d.css.map",
-    "main.1b57ce49.js.map": "/static/js/main.1b57ce49.js.map"
+    "main.css": "/ghp-swiper/static/css/main.b6bc699d.css",
+    "main.js": "/ghp-swiper/static/js/main.1b57ce49.js",
+    "index.html": "/ghp-swiper/index.html",
+    "main.b6bc699d.css.map": "/ghp-swiper/static/css/main.b6bc699d.css.map",
+    "main.1b57ce49.js.map": "/ghp-swiper/static/js/main.1b57ce49.js.map"
   },
   "entrypoints": [
     "static/css/main.b6bc699d.css",
